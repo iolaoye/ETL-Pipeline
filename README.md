@@ -33,6 +33,6 @@ Check out the codes
 
 ## Acknowledgements
 
- The publicly available resources used for the project
+ The publicly available resources used in the project
  
 
